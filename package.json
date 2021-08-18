@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@jimizai/common": "^2.0.2",
-    "@jimizai/core": "^2.0.8",
+    "@jimizai/core": "^2.0.12",
     "@jimizai/decorators": "^2.0.2",
     "@jimizai/driver-express": "^2.0.1",
     "@jimizai/injectable": "^2.0.2"
